@@ -1,0 +1,108 @@
+/* Theme 6: Monochrome (Sharp Swiss Minimalist) */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap');
+
+:root {
+  --accent: #18181B;
+  --accent-light: #3F3F46;
+  --accent-dark: #09090B;
+  --accent-glow: rgba(0, 0, 0, 0.1);
+
+  --radius-sm: 0px;
+  --radius-md: 0px;
+  --radius-lg: 0px;
+
+  --bg-base: #FFFFFF;
+  --bg-surface: #F4F4F5;
+  --bg-card: #FFFFFF;
+  --bg-elevated: #FFFFFF;
+
+  --text-primary: #09090B;
+  --text-secondary: #52525B;
+  --text-muted: #71717A;
+
+  --glass-bg: #FFFFFF;
+  --glass-blur: none;
+  --glass-border: #18181B;
+  --border-subtle: rgba(0, 0, 0, 0.12);
+  --border-card: #18181B;
+
+  --shadow-sm: 2px 2px 0px #09090B;
+  --shadow-md: 4px 4px 0px #09090B;
+  --shadow-lg: 8px 8px 0px #09090B;
+}
+
+[data-theme="dark"] {
+  --accent: #FAFAFA;
+  --accent-light: #E4E4E7;
+  --accent-dark: #D4D4D8;
+  --accent-glow: rgba(255, 255, 255, 0.15);
+
+  --bg-base: #09090B;
+  --bg-surface: #18181B;
+  --bg-card: #121215;
+  --bg-elevated: #27272A;
+
+  --text-primary: #FAFAFA;
+  --text-secondary: #A1A1AA;
+  --text-muted: #71717A;
+
+  --glass-bg: #121215;
+  --glass-blur: none;
+  --glass-border: rgba(255, 255, 255, 0.2);
+  --border-subtle: rgba(255, 255, 255, 0.1);
+  --border-card: rgba(255, 255, 255, 0.25);
+
+  --shadow-sm: 2px 2px 0px rgba(255, 255, 255, 0.2);
+  --shadow-md: 4px 4px 0px rgba(255, 255, 255, 0.25);
+  --shadow-lg: 8px 8px 0px rgba(255, 255, 255, 0.3);
+}
+
+body {
+  font-family: 'IBM Plex Sans', system-ui, sans-serif;
+  background-image: radial-gradient(var(--border-subtle) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.mono, code, pre, .badge {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.glass-panel {
+  border: 1px solid var(--border-card);
+  box-shadow: var(--shadow-md);
+  border-radius: 0;
+}
+
+.btn-primary {
+  border-radius: 0;
+  background: var(--accent);
+  color: var(--bg-base);
+  border: 1px solid var(--accent);
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.75rem 1.8rem;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.15s ease;
+}
+
+.btn-primary:hover {
+  background: var(--bg-base);
+  color: var(--accent);
+  transform: translate(-1px, -1px);
+  box-shadow: var(--shadow-md);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, var(--text-primary), var(--text-muted));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

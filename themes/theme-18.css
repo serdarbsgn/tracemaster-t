@@ -1,0 +1,112 @@
+/* Theme 18: Vintage Paper (Classic Patent Blueprint & Heritage Craft) */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+:root {
+  --accent: #854D0E;
+  --accent-light: #A16207;
+  --accent-dark: #713F12;
+  --accent-glow: rgba(133, 77, 14, 0.25);
+
+  --radius-sm: 3px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+
+  --bg-base: #FBF8F1;
+  --bg-surface: #F4EDE0;
+  --bg-card: rgba(255, 253, 248, 0.92);
+  --bg-elevated: #FFFFFF;
+
+  --text-primary: #1C1917;
+  --text-secondary: #44403C;
+  --text-muted: #78716C;
+
+  --glass-bg: rgba(255, 253, 248, 0.88);
+  --glass-blur: blur(12px);
+  --glass-border: rgba(133, 77, 14, 0.18);
+  --border-subtle: rgba(133, 77, 14, 0.12);
+  --border-card: rgba(133, 77, 14, 0.22);
+
+  --shadow-sm: 0 2px 6px rgba(133, 77, 14, 0.08);
+  --shadow-md: 0 6px 18px rgba(133, 77, 14, 0.12);
+  --shadow-lg: 0 14px 32px rgba(133, 77, 14, 0.16);
+}
+
+[data-theme="dark"] {
+  --accent: #CA8A04;
+  --accent-light: #EAB308;
+  --accent-dark: #A16207;
+  --accent-glow: rgba(202, 138, 4, 0.3);
+
+  --bg-base: #171412;
+  --bg-surface: #241E1A;
+  --bg-card: rgba(43, 36, 31, 0.85);
+  --bg-elevated: rgba(56, 47, 41, 0.95);
+
+  --text-primary: #FAF5EB;
+  --text-secondary: #E7DECE;
+  --text-muted: #B8A995;
+
+  --glass-bg: rgba(43, 36, 31, 0.75);
+  --glass-blur: blur(16px);
+  --glass-border: rgba(202, 138, 4, 0.2);
+  --border-subtle: rgba(202, 138, 4, 0.12);
+  --border-card: rgba(202, 138, 4, 0.22);
+
+  --shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.5);
+  --shadow-md: 0 6px 18px rgba(133, 77, 14, 0.2);
+  --shadow-lg: 0 14px 32px rgba(133, 77, 14, 0.3);
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  background-color: var(--bg-base);
+  background-image: radial-gradient(var(--border-subtle) 0.75px, transparent 0.75px);
+  background-size: 16px 16px;
+}
+
+h1, h2, h3, h4, .logo {
+  font-family: 'Playfair Display', serif;
+  letter-spacing: -0.01em;
+}
+
+.glass-panel {
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--shadow-md);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.glass-panel:not(.header):hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.btn-primary {
+  border-radius: var(--radius-sm);
+  background: var(--accent);
+  color: #FAF5EB;
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 0.75rem 1.8rem;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.2s ease;
+}
+
+[data-theme="dark"] .btn-primary {
+  background: var(--accent);
+  color: #171412;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px var(--accent-glow);
+  background: var(--accent-light);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, var(--accent), #D97706);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
