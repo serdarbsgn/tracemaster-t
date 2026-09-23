@@ -1,0 +1,695 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 980 1060" width="100%" height="100%" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <defs>
+    <!-- ============================================================== -->
+    <!-- EXACT VERBATIM ATM BRAND SVG SYMBOLS (FROM USER'S SOURCE CODE) -->
+    <!-- ============================================================== -->
+
+    <!-- 1. ATM Tildes (Exact User SVG) -->
+    <symbol id="atm-tildes" viewBox="0 0 151 256">
+      <g transform="translate(-75.057198 -33.523083)">
+        <path d="M75.144,167.75661c0-21.5589,17.47694-39.03584,39.03584-39.03584.0414,0,.08279.00006.12416.00019v-.00019l79.59829-.00077c10.67831,0,19.33479-7.64021,19.33479-18.3172c0-5.91849-2.527739-8.9941-6.717469-12.54031c10.77936,6.94729,17.784939,16.8361,17.784939,30.61372c0,21.5589-17.47694,39.54379-39.03584,39.54379l-80.16849-.00197c-10.67831,0-19.33479,8.65541-19.33479,19.3324c0,3.53011,3.561527,8.284507,5.214287,11.132877-9.981258-6.33426-15.835727-19.065277-15.835727-30.726707l.00001.00001Z" transform="translate(0.913208 90.13751)" fill="#00cfff"/>
+        <path d="M75.144,167.75661c0-21.5589,17.47694-39.03584,39.03584-39.03584.0414,0,.08279.00006.12416.00019v-.00019l79.59829-.00077c10.67831,0,19.33479-7.64021,19.33479-18.3172c0-5.91849-2.527739-8.9941-6.717469-12.54031c10.77936,6.94729,17.784939,16.8361,17.784939,30.61372c0,21.5589-17.47694,39.54379-39.03584,39.54379l-80.16849-.00197c-10.67831,0-19.33479,8.65541-19.33479,19.3324c0,3.53011,3.561527,8.284507,5.214287,11.132877-9.981258-6.33426-15.835727-19.065277-15.835727-30.726707l.00001.00001Z" transform="translate(0.913208 13.63751)" fill="#0c4ee2"/>
+        <path d="M75.144,167.75661c0-21.5589,17.47694-39.03584,39.03584-39.03584.0414,0,.08279.00006.12416.00019v-.00019l79.59829-.00077c10.67831,0,19.33479-7.64021,19.33479-18.3172c0-5.91849-2.527739-8.9941-6.717469-12.54031c10.77936,6.94729,17.784939,16.8361,17.784939,30.61372c0,21.5589-17.47694,39.54379-39.03584,39.54379l-80.16849-.00197c-10.67831,0-19.33479,8.65541-19.33479,19.3324c0,3.53011,3.561527,8.284507,5.214287,11.132877-9.981258-6.33426-15.835727-19.065277-15.835727-30.726707l.00001.00001Z" transform="translate(0.913208 -63.339405)" fill="#ff0d0d"/>
+      </g>
+    </symbol>
+
+    <!-- 2. ATM Letter 'a' (Exact User SVG) -->
+    <symbol id="atm-letter-a" viewBox="0 0 300 254">
+      <g id="atmastatic-u-a2" transform="translate(0 -23.586099)">
+        <path id="atmastatic-u-circle" d="M27.5,0C27.5,15.187831,15.187831,27.5,0,27.5s-27.5-12.312169-27.5-27.5s12.312169-27.5,27.5-27.5s27.5,12.312169,27.5,27.5Z" transform="matrix(3.500302 0 0 3.500302 127.184928 150.487527)" fill="none" stroke="#0c4ee2" stroke-width="17"/>
+        <path id="atmastatic-u-rectangle" d="M32.136894,0C49.88561,0,64.273787,14.389568,64.273787,32.14v150.6055c0,17.750432-14.388177,32.14-32.136893,32.14s-32.136894-14.389568-32.136894-32.14L0,32.14C0,14.389568,14.388177,0,32.136894,0Z" transform="matrix(0.970149 0 0 0.982143 199.56599 27.214593)" fill="#0c4ee2"/>
+        <path id="atmastatic-s-path1" d="M231.338384,178.958181c-1.282835,29.50522,5.441468,66.718463,42.019497,69.837793c3.027659.258195,25.102989.220799,25.102989.220799" transform="translate(0.923478 -1.755628)" fill="none" stroke="#0c4ee2" stroke-width="58"/>
+      </g>
+    </symbol>
+
+    <!-- 3. ATM Letter 't' (Exact User SVG) -->
+    <symbol id="atm-letter-t" viewBox="0 0 195 316">
+      <g id="atmtstatic-u-t2">
+        <path id="atmtstatic-u-vert" d="M46.44066,312.89257v-279.99049C46.44066,14.73076,59.4197,0,75.43015,0h.00174c16.01046,0,28.98949,14.73076,28.98949,32.90208v279.99049c0,1.05822-.04402,2.10477-.13009,3.13743h-57.72056c-.08607-1.03265-.13009-2.07921-.13009-3.13743h.00002Z" fill="#0c4ee2" stroke-width="0"/>
+        <path id="atmtstatic-u-hor" d="M29.82001,64.92372h161.99933c-23.26144,12.38931-41.20318,33.45056-49.51112,58.86965h-112.48821c-16.46913,0-29.82-13.17842-29.82-29.43483s13.35087-29.43483,29.82-29.43483v.00001Z" fill="#0c4ee2" stroke-width="0"/>
+      </g>
+    </symbol>
+
+    <!-- 4. ATM Letter 'm' (Exact User SVG) -->
+    <symbol id="atm-letter-m" viewBox="0 0 371.8 253.5">
+      <g id="atmmstatic-u-m2">
+        <path id="atmmstatic-s-path1" d="M2.020758,105.969262c0-58.2283,47.422112-105.324532,105.650412-105.324532c31.03759,0,58.94273,13.4116,78.2363,34.75568c19.29357-21.34408,47.19871-34.75568,78.2363-34.75568c58.2283,0,107.126409,47.096969,107.126409,105.32527q0,.07093-.000179,116.24c0,15.734311-13.38089,28.4902-29.11414,28.4902s-29.07586-12.75518-29.07586-28.48949L313.0806,112.85c0-26.75946-21.69184-48.44906-48.45007-48.44906s-48.45007,21.6896-48.45007,48.44906L216.18,222.21071c0,15.73431-13.64944,28.48949-29.38269,28.48949-.1861,0-.37177-.00178-.55702-.00534-.18525.00355-.37092.00534-.55702.00534-15.73325,0-30.25327-12.75518-30.25327-28.48949L155.428144,112.85c0-26.75946-20.511974-48.44906-47.270204-48.44906s-48.45007,21.69283-48.45007,48.45229L59.71,222.21c0,15.73431-13.65203,28.4902-29.38528,28.4902s-28.30472-12.75518-28.30472-28.48949" fill="#0c4ee2"/>
+      </g>
+    </symbol>
+
+    <!-- ============================================================== -->
+    <!-- EXACT TRACEMASTER LOGO (FROM USER'S SOURCE CODE)               -->
+    <!-- ============================================================== -->
+    <symbol id="tracemaster-logo" viewBox="0 0 180 180">
+      <g transform="translate(-253.645706 -294.620361)">
+        <path d="M0,0c17.143-5.293,69.75-20.795,83.776-24.924c1.963-.578,3.146-2.563,2.73-4.566L76.109,-79.581c-.284-1.367-1.273-2.482-2.598-2.927l-69.777-23.41c-2.489-.835-5.081.958-5.177,3.581L-5.081,-3.902C-5.181,-1.198,-2.585,0.798,0,0" transform="matrix(1.33333 0 0 -1.33333 289.309 313.989)" fill="#1d1d1b"/>
+        <path d="M0,0v-32.193h-11.762v32.193h-11.883v10.246h35.528v-10.246L0,0Z" transform="matrix(1.33333 0 0 -1.33333 347.659 369.949)" fill="#fdc21c"/>
+      </g>
+    </symbol>
+
+    <!-- ============================================== -->
+    <!-- INDUSTRIAL PPE SYMBOLS (FOR LEFT COLUMN)       -->
+    <!-- ============================================== -->
+
+    <!-- PPE 1: Heavy-Duty Industrial Gloves -->
+    <symbol id="ppe-gloves" viewBox="0 0 120 110">
+      <g transform="translate(10, 5)">
+        <rect x="12" y="68" width="32" height="26" rx="3" fill="#EAB308" stroke="#78350F" stroke-width="1.5" />
+        <line x1="12" y1="78" x2="44" y2="78" stroke="#CA8A04" stroke-width="2" />
+        <path d="M 14,68 C 10,50 12,38 12,24 C 12,18 18,18 18,24 L 18,44 L 20,16 C 20,10 26,10 26,16 L 26,44 L 28,18 C 28,12 34,12 34,18 L 34,44 L 36,24 C 36,18 42,18 42,24 C 42,44 44,56 42,68 Z" fill="#3B82F6" stroke="#1E3A8A" stroke-width="1.5" />
+        <path d="M 14,52 C 4,46 2,36 8,32 C 14,28 16,36 20,44 Z" fill="#3B82F6" stroke="#1E3A8A" stroke-width="1.5" />
+        <path d="M 18,48 Q 28,52 38,48 L 38,64 Q 28,66 18,64 Z" fill="#1D4ED8" opacity="0.6" />
+      </g>
+      <g transform="translate(58, 12)">
+        <rect x="12" y="62" width="32" height="26" rx="3" fill="#EAB308" stroke="#78350F" stroke-width="1.5" />
+        <line x1="12" y1="72" x2="44" y2="72" stroke="#CA8A04" stroke-width="2" />
+        <path d="M 14,62 C 10,46 12,36 12,22 C 12,16 18,16 18,22 L 18,40 L 20,14 C 20,8 26,8 26,14 L 26,40 L 28,16 C 28,10 34,10 34,16 L 34,40 L 36,22 C 36,16 42,16 42,22 C 42,40 44,52 42,62 Z" fill="#3B82F6" stroke="#1E3A8A" stroke-width="1.5" />
+        <path d="M 42,48 C 50,42 52,32 46,28 C 40,24 38,32 34,40 Z" fill="#3B82F6" stroke="#1E3A8A" stroke-width="1.5" />
+        <path d="M 18,44 Q 28,48 38,44 L 38,58 Q 28,60 18,58 Z" fill="#1D4ED8" opacity="0.6" />
+      </g>
+    </symbol>
+
+    <!-- PPE 2: Industrial Safety Hard Hat / Helmet -->
+    <symbol id="ppe-helmet" viewBox="0 0 120 100">
+      <path d="M 14,62 C 14,24 34,12 60,12 C 86,12 106,24 106,62 Z" fill="#FACC15" stroke="#CA8A04" stroke-width="2" />
+      <path d="M 52,14 C 52,32 54,58 54,62 L 66,62 C 66,58 68,32 68,14 Z" fill="#EAB308" />
+      <path d="M 32,28 C 34,40 38,58 38,62" stroke="#CA8A04" stroke-width="2" fill="none" />
+      <path d="M 88,28 C 86,40 82,58 82,62" stroke="#CA8A04" stroke-width="2" fill="none" />
+      <path d="M 4,62 C 4,58 10,58 18,58 L 102,58 C 110,58 116,58 116,62 C 116,70 106,72 96,72 L 24,72 C 14,72 4,70 4,62 Z" fill="#EAB308" stroke="#A16207" stroke-width="2" />
+      <rect x="22" y="70" width="76" height="6" rx="2" fill="#374151" />
+      <rect x="52" y="44" width="16" height="12" rx="2" fill="#1F2937" />
+    </symbol>
+
+    <!-- PPE 3: Industrial Safety Glasses / Goggles -->
+    <symbol id="ppe-goggles" viewBox="0 0 120 90">
+      <rect x="8" y="24" width="104" height="42" rx="10" fill="#1E293B" stroke="#0F172A" stroke-width="2" />
+      <rect x="14" y="28" width="42" height="34" rx="8" fill="#38BDF8" fill-opacity="0.5" stroke="#0284C7" stroke-width="1.5" />
+      <rect x="64" y="28" width="42" height="34" rx="8" fill="#38BDF8" fill-opacity="0.5" stroke="#0284C7" stroke-width="1.5" />
+      <path d="M 54,40 Q 60,34 66,40" stroke="#0F172A" stroke-width="3" fill="none" />
+      <line x1="20" y1="32" x2="36" y2="56" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" opacity="0.7" />
+      <line x1="70" y1="32" x2="86" y2="56" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" opacity="0.7" />
+      <path d="M 8,36 C 2,36 0,42 0,52" stroke="#3B82F6" stroke-width="3.5" fill="none" />
+      <path d="M 112,36 C 118,36 120,42 120,52" stroke="#3B82F6" stroke-width="3.5" fill="none" />
+    </symbol>
+
+    <!-- PPE 4: Industrial Safety Boots -->
+    <symbol id="ppe-boots" viewBox="0 0 120 100">
+      <g transform="translate(10, 10)">
+        <path d="M 4,72 L 96,72 L 98,82 L 4,82 Z" fill="#0F172A" />
+        <rect x="12" y="80" width="8" height="4" fill="#334155" />
+        <rect x="28" y="80" width="8" height="4" fill="#334155" />
+        <rect x="44" y="80" width="8" height="4" fill="#334155" />
+        <rect x="60" y="80" width="8" height="4" fill="#334155" />
+        <rect x="76" y="80" width="8" height="4" fill="#334155" />
+        <path d="M 16,14 L 38,14 L 38,36 C 44,42 56,48 76,52 C 88,54 96,60 96,72 L 4,72 C 4,52 6,24 16,14 Z" fill="#78350F" stroke="#451A03" stroke-width="1.5" />
+        <path d="M 68,54 C 82,55 96,62 96,72 L 64,72 C 64,62 66,56 68,54 Z" fill="#1F2937" />
+        <rect x="14" y="10" width="26" height="8" rx="3" fill="#1E293B" />
+        <circle cx="34" cy="24" r="1.5" fill="#F59E0B" />
+        <circle cx="36" cy="32" r="1.5" fill="#F59E0B" />
+        <circle cx="40" cy="40" r="1.5" fill="#F59E0B" />
+        <circle cx="46" cy="48" r="1.5" fill="#F59E0B" />
+        <path d="M 32,24 L 38,32 L 36,40 L 44,48" stroke="#F59E0B" stroke-width="1.2" fill="none" />
+      </g>
+    </symbol>
+
+    <!-- Gradients -->
+    <linearGradient id="yellowBody" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E5A800" />
+      <stop offset="50%" stop-color="#FFCA00" />
+      <stop offset="100%" stop-color="#F2B800" />
+    </linearGradient>
+
+    <linearGradient id="yellowShadow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(0,0,0,0)" />
+      <stop offset="100%" stop-color="rgba(0,0,0,0.32)" />
+    </linearGradient>
+
+    <linearGradient id="frameDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#282E37" />
+      <stop offset="40%" stop-color="#1B1E25" />
+      <stop offset="100%" stop-color="#101217" />
+    </linearGradient>
+
+    <linearGradient id="doorBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2374E1" />
+      <stop offset="35%" stop-color="#1A62C6" />
+      <stop offset="100%" stop-color="#114796" />
+    </linearGradient>
+
+    <linearGradient id="doorBevel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.4)" />
+      <stop offset="8%" stop-color="rgba(255,255,255,0.06)" />
+      <stop offset="92%" stop-color="rgba(0,0,0,0.15)" />
+      <stop offset="100%" stop-color="rgba(0,0,0,0.6)" />
+    </linearGradient>
+
+    <linearGradient id="interiorDepth" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080A0D" />
+      <stop offset="50%" stop-color="#11151D" />
+      <stop offset="100%" stop-color="#050709" />
+    </linearGradient>
+
+    <radialGradient id="spotlightLeft" cx="50%" cy="20%" r="70%">
+      <stop offset="0%" stop-color="rgba(255, 235, 200, 0.9)" />
+      <stop offset="50%" stop-color="rgba(255, 180, 80, 0.35)" />
+      <stop offset="100%" stop-color="rgba(10, 20, 35, 0)" />
+    </radialGradient>
+
+    <radialGradient id="spotlightRight" cx="50%" cy="20%" r="70%">
+      <stop offset="0%" stop-color="rgba(220, 240, 255, 0.95)" />
+      <stop offset="50%" stop-color="rgba(80, 160, 255, 0.4)" />
+      <stop offset="100%" stop-color="rgba(10, 20, 35, 0)" />
+    </radialGradient>
+
+    <linearGradient id="windowGlass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D141C" stop-opacity="0.93" />
+      <stop offset="50%" stop-color="#070C12" stop-opacity="0.96" />
+      <stop offset="100%" stop-color="#030508" stop-opacity="0.99" />
+    </linearGradient>
+
+    <linearGradient id="glassReflection" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="white" stop-opacity="0.32" />
+      <stop offset="30%" stop-color="white" stop-opacity="0.08" />
+      <stop offset="40%" stop-color="white" stop-opacity="0" />
+      <stop offset="70%" stop-color="white" stop-opacity="0" />
+      <stop offset="85%" stop-color="white" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="white" stop-opacity="0.02" />
+    </linearGradient>
+
+    <linearGradient id="handlePocket" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#07080A" />
+      <stop offset="40%" stop-color="#13161C" />
+      <stop offset="100%" stop-color="#242A34" />
+    </linearGradient>
+
+    <linearGradient id="metallicTrim" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#727D8E" />
+      <stop offset="50%" stop-color="#414854" />
+      <stop offset="100%" stop-color="#232730" />
+    </linearGradient>
+
+    <filter id="dropShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity="0.75" />
+    </filter>
+  </defs>
+
+  <style><![CDATA[
+    text {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif;
+      user-select: none;
+    }
+
+    /* 12-Second Loop:
+       Row 1 (Gloves & Tildes) opens: 7%  - 19%
+       Row 2 (Helmet & 'a')    opens: 25% - 37%
+       Row 3 (Goggles & 't')   opens: 43% - 55%
+       Row 4 (Boots & 'm')     opens: 61% - 73%
+       Grand Reveal (All Open): 73% - 85%
+       Close & Reset:           88% - 94%
+    */
+
+    /* Left Column Doors: Hinge on LEFT (0% 50%), Handle on RIGHT -> Swing to LEFT */
+    .door-left-hinge {
+      transform-box: fill-box;
+      transform-origin: 0% 50%;
+      transform-style: preserve-3d;
+    }
+    #door-L1 { animation: swingLeftDoor1 12s cubic-bezier(0.25, 1, 0.3, 1) infinite; }
+    #door-L2 { animation: swingLeftDoor2 12s cubic-bezier(0.25, 1, 0.3, 1) infinite; }
+    #door-L3 { animation: swingLeftDoor3 12s cubic-bezier(0.25, 1, 0.3, 1) infinite; }
+    #door-L4 { animation: swingLeftDoor4 12s cubic-bezier(0.25, 1, 0.3, 1) infinite; }
+
+    @keyframes swingLeftDoor1 {
+      0%, 6%   { transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+      16%, 85% { transform: perspective(900px) rotateY(-86deg) scaleX(0.08) skewY(-2deg); opacity: 0.22; }
+      92%, 100%{ transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+    }
+    @keyframes swingLeftDoor2 {
+      0%, 24%  { transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+      34%, 85% { transform: perspective(900px) rotateY(-86deg) scaleX(0.08) skewY(-2deg); opacity: 0.22; }
+      92%, 100%{ transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+    }
+    @keyframes swingLeftDoor3 {
+      0%, 42%  { transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+      52%, 85% { transform: perspective(900px) rotateY(-86deg) scaleX(0.08) skewY(-2deg); opacity: 0.22; }
+      92%, 100%{ transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+    }
+    @keyframes swingLeftDoor4 {
+      0%, 60%  { transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+      70%, 85% { transform: perspective(900px) rotateY(-86deg) scaleX(0.08) skewY(-2deg); opacity: 0.22; }
+      92%, 100%{ transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+    }
+
+    /* Right Column Doors: Hinge on RIGHT (100% 50%), Handle on LEFT -> Swing to RIGHT */
+    .door-right-hinge {
+      transform-box: fill-box;
+      transform-origin: 100% 50%;
+      transform-style: preserve-3d;
+    }
+    #door-R1 { animation: swingRightDoor1 12s cubic-bezier(0.25, 1, 0.3, 1) infinite; }
+    #door-R2 { animation: swingRightDoor2 12s cubic-bezier(0.25, 1, 0.3, 1) infinite; }
+    #door-R3 { animation: swingRightDoor3 12s cubic-bezier(0.25, 1, 0.3, 1) infinite; }
+    #door-R4 { animation: swingRightDoor4 12s cubic-bezier(0.25, 1, 0.3, 1) infinite; }
+
+    @keyframes swingRightDoor1 {
+      0%, 6%   { transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+      16%, 85% { transform: perspective(900px) rotateY(86deg) scaleX(0.08) skewY(2deg); opacity: 0.22; }
+      92%, 100%{ transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+    }
+    @keyframes swingRightDoor2 {
+      0%, 24%  { transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+      34%, 85% { transform: perspective(900px) rotateY(86deg) scaleX(0.08) skewY(2deg); opacity: 0.22; }
+      92%, 100%{ transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+    }
+    @keyframes swingRightDoor3 {
+      0%, 42%  { transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+      52%, 85% { transform: perspective(900px) rotateY(86deg) scaleX(0.08) skewY(2deg); opacity: 0.22; }
+      92%, 100%{ transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+    }
+    @keyframes swingRightDoor4 {
+      0%, 60%  { transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+      70%, 85% { transform: perspective(900px) rotateY(86deg) scaleX(0.08) skewY(2deg); opacity: 0.22; }
+      92%, 100%{ transform: perspective(900px) rotateY(0deg) scaleX(1); opacity: 1; }
+    }
+
+    /* Spotlights */
+    .spotlight { opacity: 0.12; transition: opacity 0.5s ease; }
+    #spot-L1, #spot-R1 { animation: spotRow1 12s ease infinite; }
+    #spot-L2, #spot-R2 { animation: spotRow2 12s ease infinite; }
+    #spot-L3, #spot-R3 { animation: spotRow3 12s ease infinite; }
+    #spot-L4, #spot-R4 { animation: spotRow4 12s ease infinite; }
+
+    @keyframes spotRow1 {
+      0%, 6%   { opacity: 0.1; }
+      14%, 86% { opacity: 1; }
+      92%, 100%{ opacity: 0.1; }
+    }
+    @keyframes spotRow2 {
+      0%, 24%  { opacity: 0.1; }
+      32%, 86% { opacity: 1; }
+      92%, 100%{ opacity: 0.1; }
+    }
+    @keyframes spotRow3 {
+      0%, 42%  { opacity: 0.1; }
+      50%, 86% { opacity: 1; }
+      92%, 100%{ opacity: 0.1; }
+    }
+    @keyframes spotRow4 {
+      0%, 60%  { opacity: 0.1; }
+      68%, 86% { opacity: 1; }
+      92%, 100%{ opacity: 0.1; }
+    }
+
+    /* Item subtle scale/glow */
+    .item-glow { transform-box: fill-box; transform-origin: center center; }
+    #glow-L1, #glow-R1 { animation: glowRow1 12s ease-out infinite; }
+    #glow-L2, #glow-R2 { animation: glowRow2 12s ease-out infinite; }
+    #glow-L3, #glow-R3 { animation: glowRow3 12s ease-out infinite; }
+    #glow-L4, #glow-R4 { animation: glowRow4 12s ease-out infinite; }
+
+    @keyframes glowRow1 {
+      0%, 6%   { transform: scale(0.92); opacity: 0.45; }
+      15%, 86% { transform: scale(1.04); opacity: 1; }
+      92%, 100%{ transform: scale(0.92); opacity: 0.45; }
+    }
+    @keyframes glowRow2 {
+      0%, 24%  { transform: scale(0.92); opacity: 0.45; }
+      33%, 86% { transform: scale(1.04); opacity: 1; }
+      92%, 100%{ transform: scale(0.92); opacity: 0.45; }
+    }
+    @keyframes glowRow3 {
+      0%, 42%  { transform: scale(0.92); opacity: 0.45; }
+      51%, 86% { transform: scale(1.04); opacity: 1; }
+      92%, 100%{ transform: scale(0.92); opacity: 0.45; }
+    }
+    @keyframes glowRow4 {
+      0%, 60%  { transform: scale(0.92); opacity: 0.45; }
+      69%, 86% { transform: scale(1.04); opacity: 1; }
+      92%, 100%{ transform: scale(0.92); opacity: 0.45; }
+    }
+
+    /* Lock LEDs (Orange locked -> Green open) */
+    #led-1 { animation: ledRow1 12s infinite; }
+    #led-2 { animation: ledRow2 12s infinite; }
+    #led-3 { animation: ledRow3 12s infinite; }
+    #led-4 { animation: ledRow4 12s infinite; }
+
+    @keyframes ledRow1 {
+      0%, 5%   { fill: #FF9800; filter: drop-shadow(0 0 2px #FF9800); }
+      7%, 85%  { fill: #00FF66; filter: drop-shadow(0 0 5px #00FF66); }
+      92%, 100%{ fill: #FF9800; filter: drop-shadow(0 0 2px #FF9800); }
+    }
+    @keyframes ledRow2 {
+      0%, 23%  { fill: #FF9800; filter: drop-shadow(0 0 2px #FF9800); }
+      25%, 85% { fill: #00FF66; filter: drop-shadow(0 0 5px #00FF66); }
+      92%, 100%{ fill: #FF9800; filter: drop-shadow(0 0 2px #FF9800); }
+    }
+    @keyframes ledRow3 {
+      0%, 41%  { fill: #FF9800; filter: drop-shadow(0 0 2px #FF9800); }
+      43%, 85% { fill: #00FF66; filter: drop-shadow(0 0 5px #00FF66); }
+      92%, 100%{ fill: #FF9800; filter: drop-shadow(0 0 2px #FF9800); }
+    }
+    @keyframes ledRow4 {
+      0%, 59%  { fill: #FF9800; filter: drop-shadow(0 0 2px #FF9800); }
+      61%, 85% { fill: #00FF66; filter: drop-shadow(0 0 5px #00FF66); }
+      92%, 100%{ fill: #FF9800; filter: drop-shadow(0 0 2px #FF9800); }
+    }
+  ]]></style>
+
+  <!-- Ambient Backdrop Removed for Transparency -->
+
+  <!-- Ground Shadow Removed -->
+
+  <!-- ============================================== -->
+  <!-- MAIN TRACEMASTER 2x5 CABINET                   -->
+  <!-- ============================================== -->
+  <g id="cabinet" transform="translate(10, 20)">
+
+    <!-- 1. LEFT YELLOW FLANK (Clean with ONLY the Big TraceMaster Logo) -->
+    <!--
+      All text, feature icons, and sub-labels removed.
+      Only the prominent TraceMaster brand logo is centered on the yellow flank.
+    -->
+    <g id="yellow-side-flank">
+      <!-- Main Yellow Plate (Perspective: top edge drops, bottom edge rises) -->
+      <polygon points="45,70 165,40 165,962 45,932" fill="url(#yellowBody)" />
+      
+      <!-- Top Bevel Removed to only show two sides -->
+
+      <!-- Lower Shadow Gradient -->
+      <polygon points="45,772 165,802 165,962 45,932" fill="url(#yellowShadow)" />
+
+      <!-- TraceMaster Brand Logo (Subtle perspective skew) -->
+      <g transform="translate(50, 390) skewY(-5)">
+        <svg viewBox="0 0 180 180" width="110" height="110">
+          <g transform="translate(-253.645706 -294.620361)">
+            <path d="M0,0c17.143-5.293,69.75-20.795,83.776-24.924c1.963-.578,3.146-2.563,2.73-4.566L76.109,-79.581c-.284-1.367-1.273-2.482-2.598-2.927l-69.777-23.41c-2.489-.835-5.081.958-5.177,3.581L-5.081,-3.902C-5.181,-1.198,-2.585,0.798,0,0" transform="matrix(1.33333 0 0 -1.33333 289.309 313.989)" fill="#1d1d1b"/>
+            <path d="M0,0v-32.193h-11.762v32.193h-11.883v10.246h35.528v-10.246L0,0Z" transform="matrix(1.33333 0 0 -1.33333 347.659 369.949)" fill="#fdc21c"/>
+          </g>
+        </svg>
+      </g>
+    </g>
+
+    <!-- 2. FRONT CHASSIS (2x5 Cabinet Frame) -->
+    <g id="front-chassis" filter="url(#dropShadow)">
+      <rect x="165" y="40" width="765" height="922" rx="6" fill="url(#frameDark)" stroke="#313742" stroke-width="2" />
+
+      <!-- Top Header Console -->
+      <rect x="175" y="50" width="745" height="60" rx="4" fill="#13161B" stroke="#252A33" stroke-width="1.5" />
+      <rect x="188" y="58" width="719" height="44" rx="3" fill="#0A0D12" stroke="#1E232B" />
+
+      <!-- Left Column Header Label -->
+      <circle cx="204" cy="80" r="5" fill="#00FF66" filter="drop-shadow(0 0 4px #00FF66)" />
+      <text x="218" y="75" font-size="11" font-weight="800" fill="#FFFFFF" letter-spacing="1.2">TRACEMASTER DISPENSER</text>
+      <text x="218" y="90" font-size="8.5" font-weight="600" fill="#EAB308" letter-spacing="0.8">COLUMN A: INDUSTRIAL PPE ITEMS</text>
+
+      <!-- Center ATM Brand Emblem -->
+      <rect x="525" y="64" width="60" height="32" rx="3" fill="#171C24" stroke="#2563EB" stroke-width="1" />
+      <text x="535" y="85" font-size="14" font-weight="900" fill="#00C4FF" letter-spacing="1">ATM</text>
+
+      <!-- Right Column Header Label -->
+      <text x="680" y="75" font-size="11" font-weight="800" fill="#FFFFFF" letter-spacing="1.2">ATM ISI TRANSFER</text>
+      <text x="680" y="90" font-size="8.5" font-weight="600" fill="#00C4FF" letter-spacing="0.8">COLUMN B: ATM BRAND REVEAL</text>
+
+      <!-- Bottom Heavy Plinth -->
+      <rect x="165" y="937" width="765" height="25" fill="#0F1115" />
+      <line x1="165" y1="937" x2="930" y2="937" stroke="#313742" stroke-width="2" />
+      <rect x="220" y="954" width="70" height="6" rx="2" fill="#252A33" />
+      <rect x="520" y="954" width="70" height="6" rx="2" fill="#252A33" />
+      <rect x="800" y="954" width="70" height="6" rx="2" fill="#252A33" />
+
+      <!-- Center Divider Beam -->
+      <rect x="542" y="118" width="16" height="812" fill="#141820" stroke="#252A33" stroke-width="1" />
+
+      <!-- ============================================================== -->
+      <!-- 2x4 LOCKER MATRIX (8 COMPARTMENTS)                             -->
+      <!-- ============================================================== -->
+
+      <!-- ========================================================= -->
+      <!-- ROW 1 (TOP): LEFT = GLOVES  |  RIGHT = ATM TILDES         -->
+      <!-- ========================================================= -->
+      <!-- Row 1 Left: Industrial Gloves -->
+      <g id="locker-L1" transform="translate(180, 122)">
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#interiorDepth)" stroke="#090B0E" stroke-width="2" />
+        <rect x="25" y="3" width="305" height="4" rx="2" fill="#FFFFFF" opacity="0.9" />
+        <ellipse id="spot-L1" class="spotlight" cx="177" cy="75" rx="160" ry="65" fill="url(#spotlightLeft)" />
+
+        <g id="glow-L1" class="item-glow">
+          <use href="#ppe-gloves" x="120" y="24" width="115" height="102" />
+        </g>
+
+        <!-- Swinging Door L1 (Hinges on LEFT, Handle on RIGHT -> Opens to LEFT) -->
+        <g id="door-L1" class="door-left-hinge">
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBlue)" stroke="#0E3670" stroke-width="1.5" />
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBevel)" />
+
+          <rect x="22" y="16" width="280" height="118" rx="4" fill="url(#windowGlass)" stroke="#111720" stroke-width="2" />
+          <polygon points="22,16 95,16 40,134 22,134" fill="url(#glassReflection)" />
+          <polygon points="120,16 160,16 100,134 60,134" fill="url(#glassReflection)" opacity="0.6" />
+
+          <rect x="316" y="32" width="20" height="86" rx="3" fill="url(#handlePocket)" stroke="#0E1318" stroke-width="1" />
+          <rect x="322" y="44" width="7" height="62" rx="2" fill="url(#metallicTrim)" />
+          <circle id="led-1" cx="326" cy="22" r="3" fill="#FF9800" />
+        </g>
+        <rect x="-3" y="16" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+        <rect x="-3" y="112" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+      </g>
+
+      <!-- Row 1 Right: ATM 3 Tildes (EXACT USER SVG) -->
+      <g id="locker-R1" transform="translate(565, 122)">
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#interiorDepth)" stroke="#090B0E" stroke-width="2" />
+        <rect x="25" y="3" width="305" height="4" rx="2" fill="#FFFFFF" opacity="0.9" />
+        <ellipse id="spot-R1" class="spotlight" cx="177" cy="75" rx="160" ry="65" fill="url(#spotlightRight)" />
+
+        <g id="glow-R1" class="item-glow">
+          <use href="#atm-tildes" x="145" y="20" width="65" height="110" />
+        </g>
+
+        <!-- Swinging Door R1 (Hinges on RIGHT, Handle on LEFT -> Opens to RIGHT) -->
+        <g id="door-R1" class="door-right-hinge">
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBlue)" stroke="#0E3670" stroke-width="1.5" />
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBevel)" />
+
+          <rect x="18" y="32" width="20" height="86" rx="3" fill="url(#handlePocket)" stroke="#0E1318" stroke-width="1" />
+          <rect x="24" y="44" width="7" height="62" rx="2" fill="url(#metallicTrim)" />
+          <circle id="led-1" cx="28" cy="22" r="3" fill="#FF9800" />
+
+          <rect x="52" y="16" width="280" height="118" rx="4" fill="url(#windowGlass)" stroke="#111720" stroke-width="2" />
+          <polygon points="52,16 125,16 70,134 52,134" fill="url(#glassReflection)" />
+          <polygon points="150,16 190,16 130,134 90,134" fill="url(#glassReflection)" opacity="0.6" />
+        </g>
+        <rect x="352" y="16" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+        <rect x="352" y="112" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+      </g>
+
+      <!-- ========================================================= -->
+      <!-- ROW 2: LEFT = HELMET  |  RIGHT = ATM 'a' (EXACT USER SVG) -->
+      <!-- ========================================================= -->
+      <!-- Row 2 Left: Safety Helmet -->
+      <g id="locker-L2" transform="translate(180, 284)">
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#interiorDepth)" stroke="#090B0E" stroke-width="2" />
+        <rect x="25" y="3" width="305" height="4" rx="2" fill="#FFFFFF" opacity="0.9" />
+        <ellipse id="spot-L2" class="spotlight" cx="177" cy="75" rx="160" ry="65" fill="url(#spotlightLeft)" />
+
+        <g id="glow-L2" class="item-glow">
+          <use href="#ppe-helmet" x="122" y="30" width="110" height="92" />
+        </g>
+
+        <!-- Swinging Door L2 -->
+        <g id="door-L2" class="door-left-hinge">
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBlue)" stroke="#0E3670" stroke-width="1.5" />
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBevel)" />
+
+          <rect x="22" y="16" width="280" height="118" rx="4" fill="url(#windowGlass)" stroke="#111720" stroke-width="2" />
+          <polygon points="22,16 95,16 40,134 22,134" fill="url(#glassReflection)" />
+          <polygon points="120,16 160,16 100,134 60,134" fill="url(#glassReflection)" opacity="0.6" />
+
+          <rect x="316" y="32" width="20" height="86" rx="3" fill="url(#handlePocket)" stroke="#0E1318" stroke-width="1" />
+          <rect x="322" y="44" width="7" height="62" rx="2" fill="url(#metallicTrim)" />
+          <circle id="led-2" cx="326" cy="22" r="3" fill="#FF9800" />
+        </g>
+        <rect x="-3" y="16" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+        <rect x="-3" y="112" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+      </g>
+
+      <!-- Row 2 Right: ATM Letter 'a' (EXACT USER SVG) -->
+      <g id="locker-R2" transform="translate(565, 284)">
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#interiorDepth)" stroke="#090B0E" stroke-width="2" />
+        <rect x="25" y="3" width="305" height="4" rx="2" fill="#FFFFFF" opacity="0.9" />
+        <ellipse id="spot-R2" class="spotlight" cx="177" cy="75" rx="160" ry="65" fill="url(#spotlightRight)" />
+
+        <g id="glow-R2" class="item-glow">
+          <use href="#atm-letter-a" x="121" y="28" width="112" height="95" />
+        </g>
+
+        <!-- Swinging Door R2 -->
+        <g id="door-R2" class="door-right-hinge">
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBlue)" stroke="#0E3670" stroke-width="1.5" />
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBevel)" />
+
+          <rect x="18" y="32" width="20" height="86" rx="3" fill="url(#handlePocket)" stroke="#0E1318" stroke-width="1" />
+          <rect x="24" y="44" width="7" height="62" rx="2" fill="url(#metallicTrim)" />
+          <circle id="led-2" cx="28" cy="22" r="3" fill="#FF9800" />
+
+          <rect x="52" y="16" width="280" height="118" rx="4" fill="url(#windowGlass)" stroke="#111720" stroke-width="2" />
+          <polygon points="52,16 125,16 70,134 52,134" fill="url(#glassReflection)" />
+          <polygon points="150,16 190,16 130,134 90,134" fill="url(#glassReflection)" opacity="0.6" />
+        </g>
+        <rect x="352" y="16" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+        <rect x="352" y="112" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+      </g>
+
+      <!-- ========================================================= -->
+      <!-- ROW 3: LEFT = GOGGLES | RIGHT = ATM 't' (EXACT USER SVG) -->
+      <!-- ========================================================= -->
+      <!-- Row 3 Left: Safety Goggles -->
+      <g id="locker-L3" transform="translate(180, 446)">
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#interiorDepth)" stroke="#090B0E" stroke-width="2" />
+        <rect x="25" y="3" width="305" height="4" rx="2" fill="#FFFFFF" opacity="0.9" />
+        <ellipse id="spot-L3" class="spotlight" cx="177" cy="75" rx="160" ry="65" fill="url(#spotlightLeft)" />
+
+        <g id="glow-L3" class="item-glow">
+          <use href="#ppe-goggles" x="122" y="34" width="112" height="84" />
+        </g>
+
+        <!-- Swinging Door L3 -->
+        <g id="door-L3" class="door-left-hinge">
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBlue)" stroke="#0E3670" stroke-width="1.5" />
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBevel)" />
+
+          <rect x="22" y="16" width="280" height="118" rx="4" fill="url(#windowGlass)" stroke="#111720" stroke-width="2" />
+          <polygon points="22,16 95,16 40,134 22,134" fill="url(#glassReflection)" />
+          <polygon points="120,16 160,16 100,134 60,134" fill="url(#glassReflection)" opacity="0.6" />
+
+          <rect x="316" y="32" width="20" height="86" rx="3" fill="url(#handlePocket)" stroke="#0E1318" stroke-width="1" />
+          <rect x="322" y="44" width="7" height="62" rx="2" fill="url(#metallicTrim)" />
+          <circle id="led-3" cx="326" cy="22" r="3" fill="#FF9800" />
+        </g>
+        <rect x="-3" y="16" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+        <rect x="-3" y="112" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+      </g>
+
+      <!-- Row 3 Right: ATM Letter 't' (EXACT USER SVG) -->
+      <g id="locker-R3" transform="translate(565, 446)">
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#interiorDepth)" stroke="#090B0E" stroke-width="2" />
+        <rect x="25" y="3" width="305" height="4" rx="2" fill="#FFFFFF" opacity="0.9" />
+        <ellipse id="spot-R3" class="spotlight" cx="177" cy="75" rx="160" ry="65" fill="url(#spotlightRight)" />
+
+        <g id="glow-R3" class="item-glow">
+          <use href="#atm-letter-t" x="143" y="20" width="68" height="110" />
+        </g>
+
+        <!-- Swinging Door R3 -->
+        <g id="door-R3" class="door-right-hinge">
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBlue)" stroke="#0E3670" stroke-width="1.5" />
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBevel)" />
+
+          <rect x="18" y="32" width="20" height="86" rx="3" fill="url(#handlePocket)" stroke="#0E1318" stroke-width="1" />
+          <rect x="24" y="44" width="7" height="62" rx="2" fill="url(#metallicTrim)" />
+          <circle id="led-3" cx="28" cy="22" r="3" fill="#FF9800" />
+
+          <rect x="52" y="16" width="280" height="118" rx="4" fill="url(#windowGlass)" stroke="#111720" stroke-width="2" />
+          <polygon points="52,16 125,16 70,134 52,134" fill="url(#glassReflection)" />
+          <polygon points="150,16 190,16 130,134 90,134" fill="url(#glassReflection)" opacity="0.6" />
+        </g>
+        <rect x="352" y="16" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+        <rect x="352" y="112" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+      </g>
+
+      <!-- ========================================================= -->
+      <!-- ROW 4: LEFT = BOOTS   | RIGHT = ATM 'm' (EXACT USER SVG) -->
+      <!-- ========================================================= -->
+      <!-- Row 4 Left: Work Boots -->
+      <g id="locker-L4" transform="translate(180, 608)">
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#interiorDepth)" stroke="#090B0E" stroke-width="2" />
+        <rect x="25" y="3" width="305" height="4" rx="2" fill="#FFFFFF" opacity="0.9" />
+        <ellipse id="spot-L4" class="spotlight" cx="177" cy="75" rx="160" ry="65" fill="url(#spotlightLeft)" />
+
+        <g id="glow-L4" class="item-glow">
+          <use href="#ppe-boots" x="122" y="26" width="112" height="98" />
+        </g>
+
+        <!-- Swinging Door L4 -->
+        <g id="door-L4" class="door-left-hinge">
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBlue)" stroke="#0E3670" stroke-width="1.5" />
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBevel)" />
+
+          <rect x="22" y="16" width="280" height="118" rx="4" fill="url(#windowGlass)" stroke="#111720" stroke-width="2" />
+          <polygon points="22,16 95,16 40,134 22,134" fill="url(#glassReflection)" />
+          <polygon points="120,16 160,16 100,134 60,134" fill="url(#glassReflection)" opacity="0.6" />
+
+          <rect x="316" y="32" width="20" height="86" rx="3" fill="url(#handlePocket)" stroke="#0E1318" stroke-width="1" />
+          <rect x="322" y="44" width="7" height="62" rx="2" fill="url(#metallicTrim)" />
+          <circle id="led-4" cx="326" cy="22" r="3" fill="#FF9800" />
+        </g>
+        <rect x="-3" y="16" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+        <rect x="-3" y="112" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+      </g>
+
+      <!-- Row 4 Right: ATM Letter 'm' (EXACT USER SVG) -->
+      <g id="locker-R4" transform="translate(565, 608)">
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#interiorDepth)" stroke="#090B0E" stroke-width="2" />
+        <rect x="25" y="3" width="305" height="4" rx="2" fill="#FFFFFF" opacity="0.9" />
+        <ellipse id="spot-R4" class="spotlight" cx="177" cy="75" rx="160" ry="65" fill="url(#spotlightRight)" />
+
+        <g id="glow-R4" class="item-glow">
+          <use href="#atm-letter-m" x="107" y="28" width="140" height="95" />
+        </g>
+
+        <!-- Swinging Door R4 -->
+        <g id="door-R4" class="door-right-hinge">
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBlue)" stroke="#0E3670" stroke-width="1.5" />
+          <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBevel)" />
+
+          <rect x="18" y="32" width="20" height="86" rx="3" fill="url(#handlePocket)" stroke="#0E1318" stroke-width="1" />
+          <rect x="24" y="44" width="7" height="62" rx="2" fill="url(#metallicTrim)" />
+          <circle id="led-4" cx="28" cy="22" r="3" fill="#FF9800" />
+
+          <rect x="52" y="16" width="280" height="118" rx="4" fill="url(#windowGlass)" stroke="#111720" stroke-width="2" />
+          <polygon points="52,16 125,16 70,134 52,134" fill="url(#glassReflection)" />
+          <polygon points="150,16 190,16 130,134 90,134" fill="url(#glassReflection)" opacity="0.6" />
+        </g>
+        <rect x="352" y="16" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+        <rect x="352" y="112" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+      </g>
+
+      <!-- ========================================================= -->
+      <!-- ROW 5 (STATIC BOTTOM DRAWERS)                            -->
+      <!-- ========================================================= -->
+      <!-- Row 5 Left: Static -->
+      <g id="locker-L5" transform="translate(180, 770)">
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBlue)" stroke="#0E3670" stroke-width="1.5" />
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBevel)" />
+
+        <rect x="22" y="16" width="280" height="118" rx="4" fill="url(#windowGlass)" stroke="#111720" stroke-width="2" />
+        <polygon points="22,16 95,16 40,134 22,134" fill="url(#glassReflection)" />
+        <polygon points="120,16 160,16 100,134 60,134" fill="url(#glassReflection)" opacity="0.6" />
+
+        <rect x="316" y="32" width="20" height="86" rx="3" fill="url(#handlePocket)" stroke="#0E1318" stroke-width="1" />
+        <rect x="322" y="44" width="7" height="62" rx="2" fill="url(#metallicTrim)" />
+        <circle cx="326" cy="22" r="3" fill="#FF9800" />
+        
+        <rect x="-3" y="16" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+        <rect x="-3" y="112" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+      </g>
+
+      <!-- Row 5 Right: Static -->
+      <g id="locker-R5" transform="translate(565, 770)">
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBlue)" stroke="#0E3670" stroke-width="1.5" />
+        <rect x="0" y="0" width="355" height="150" rx="4" fill="url(#doorBevel)" />
+
+        <rect x="18" y="32" width="20" height="86" rx="3" fill="url(#handlePocket)" stroke="#0E1318" stroke-width="1" />
+        <rect x="24" y="44" width="7" height="62" rx="2" fill="url(#metallicTrim)" />
+        <circle cx="28" cy="22" r="3" fill="#FF9800" />
+
+        <rect x="52" y="16" width="280" height="118" rx="4" fill="url(#windowGlass)" stroke="#111720" stroke-width="2" />
+        <polygon points="52,16 125,16 70,134 52,134" fill="url(#glassReflection)" />
+        <polygon points="150,16 190,16 130,134 90,134" fill="url(#glassReflection)" opacity="0.6" />
+
+        <rect x="352" y="16" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+        <rect x="352" y="112" width="6" height="22" rx="2" fill="#313947" stroke="#111" stroke-width="1" />
+      </g>
+
+    </g>
+  </g>
+</svg>
