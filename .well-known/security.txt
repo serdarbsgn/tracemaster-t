@@ -1,0 +1,4 @@
+Contact: mailto:info@tracemaster.com.tr
+Expires: 2027-10-07T00:00:00.000Z
+Preferred-Languages: tr, en
+Canonical: https://www.tracemaster.com.tr/.well-known/security.txt
