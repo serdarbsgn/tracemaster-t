@@ -8,44 +8,44 @@ Contact: info@tracemaster.com.tr, +90 532 760 00 07.
 The site is bilingual: Turkish at /, English at /en/.
 
 ## Products
-- [TraceMaster PPE Vending Machines](https://www.tracemaster.com.tr/tracemaster-t/en/products/tracemaster/)
-  - [TraceTurn](https://www.tracemaster.com.tr/tracemaster-t/en/products/tracemaster/#traceturn): PPE dispenser with a 10″ touchscreen.
-  - [TraceBox](https://www.tracemaster.com.tr/tracemaster-t/en/products/tracemaster/#tracebox): 16-compartment accessory PPE cabinet for bulky items.
-  - [TraceLocker-30](https://www.tracemaster.com.tr/tracemaster-t/en/products/tracemaster/#tracelocker-30): 30-compartment accessory cabinet complementing the vending machine.
-  - [TraceLocker-32](https://www.tracemaster.com.tr/tracemaster-t/en/products/tracemaster/#tracelocker-32): 32-compartment accessory PPE cabinet.
-- [CribMaster Inventory Vending Machines](https://www.tracemaster.com.tr/tracemaster-t/en/products/cribmaster/)
-  - [ProStock](https://www.tracemaster.com.tr/tracemaster-t/en/products/cribmaster/#prostock)
-  - [WeighStation](https://www.tracemaster.com.tr/tracemaster-t/en/products/cribmaster/#weighstation)
-  - [ToolBox](https://www.tracemaster.com.tr/tracemaster-t/en/products/cribmaster/#toolbox)
+- [TraceMaster PPE Vending Machines](https://www.tracemaster.com.tr/en/products/tracemaster/)
+  - [TraceTurn](https://www.tracemaster.com.tr/en/products/tracemaster/#traceturn): PPE dispenser with a 10″ touchscreen.
+  - [TraceBox](https://www.tracemaster.com.tr/en/products/tracemaster/#tracebox): 16-compartment accessory PPE cabinet for bulky items.
+  - [TraceLocker-30](https://www.tracemaster.com.tr/en/products/tracemaster/#tracelocker-30): 30-compartment accessory cabinet complementing the vending machine.
+  - [TraceLocker-32](https://www.tracemaster.com.tr/en/products/tracemaster/#tracelocker-32): 32-compartment accessory PPE cabinet.
+- [CribMaster Inventory Vending Machines](https://www.tracemaster.com.tr/en/products/cribmaster/)
+  - [ProStock](https://www.tracemaster.com.tr/en/products/cribmaster/#prostock)
+  - [WeighStation](https://www.tracemaster.com.tr/en/products/cribmaster/#weighstation)
+  - [ToolBox](https://www.tracemaster.com.tr/en/products/cribmaster/#toolbox)
 
 ## Sectors
-- [Factories](https://www.tracemaster.com.tr/tracemaster-t/en/sectors/factories/)
-- [Aviation](https://www.tracemaster.com.tr/tracemaster-t/en/sectors/aviation/)
-- [Healthcare](https://www.tracemaster.com.tr/tracemaster-t/en/sectors/healthcare/)
-- [Residences & Hotels](https://www.tracemaster.com.tr/tracemaster-t/en/sectors/residential-hotels/)
+- [Factories](https://www.tracemaster.com.tr/en/sectors/factories/)
+- [Aviation](https://www.tracemaster.com.tr/en/sectors/aviation/)
+- [Healthcare](https://www.tracemaster.com.tr/en/sectors/healthcare/)
+- [Residences & Hotels](https://www.tracemaster.com.tr/en/sectors/residential-hotels/)
 
 ## Company
-- [About Us](https://www.tracemaster.com.tr/tracemaster-t/en/about/), [Services](https://www.tracemaster.com.tr/tracemaster-t/en/services/), [Contact](https://www.tracemaster.com.tr/tracemaster-t/en/contact/), [Blog](https://www.tracemaster.com.tr/tracemaster-t/en/blog/), [Privacy and Cookies](https://www.tracemaster.com.tr/tracemaster-t/en/privacy/)
+- [About Us](https://www.tracemaster.com.tr/en/about/), [Services](https://www.tracemaster.com.tr/en/services/), [Contact](https://www.tracemaster.com.tr/en/contact/), [Blog](https://www.tracemaster.com.tr/en/blog/), [Privacy and Cookies](https://www.tracemaster.com.tr/en/privacy/)
 
 ## Turkish pages
-- [TraceMaster İSG ve KKD Otomatları](https://www.tracemaster.com.tr/tracemaster-t/urunler/tracemaster/), [CribMaster Envanter Yönetim Otomatları](https://www.tracemaster.com.tr/tracemaster-t/urunler/cribmaster/)
-- [Fabrikalar](https://www.tracemaster.com.tr/tracemaster-t/sektorler/fabrikalar/), [Havacılık](https://www.tracemaster.com.tr/tracemaster-t/sektorler/havacilik/), [Sağlık](https://www.tracemaster.com.tr/tracemaster-t/sektorler/saglik/), [Konutlar ve Oteller](https://www.tracemaster.com.tr/tracemaster-t/sektorler/konutlar-oteller/)
-- [Hakkımızda](https://www.tracemaster.com.tr/tracemaster-t/hakkimizda/), [Hizmetler](https://www.tracemaster.com.tr/tracemaster-t/hizmetler/), [İletişim](https://www.tracemaster.com.tr/tracemaster-t/iletisim/), [Blog](https://www.tracemaster.com.tr/tracemaster-t/blog/), [Gizlilik ve Çerezler](https://www.tracemaster.com.tr/tracemaster-t/gizlilik/)
+- [TraceMaster İSG ve KKD Otomatları](https://www.tracemaster.com.tr/urunler/tracemaster/), [CribMaster Envanter Yönetim Otomatları](https://www.tracemaster.com.tr/urunler/cribmaster/)
+- [Fabrikalar](https://www.tracemaster.com.tr/sektorler/fabrikalar/), [Havacılık](https://www.tracemaster.com.tr/sektorler/havacilik/), [Sağlık](https://www.tracemaster.com.tr/sektorler/saglik/), [Konutlar ve Oteller](https://www.tracemaster.com.tr/sektorler/konutlar-oteller/)
+- [Hakkımızda](https://www.tracemaster.com.tr/hakkimizda/), [Hizmetler](https://www.tracemaster.com.tr/hizmetler/), [İletişim](https://www.tracemaster.com.tr/iletisim/), [Blog](https://www.tracemaster.com.tr/blog/), [Gizlilik ve Çerezler](https://www.tracemaster.com.tr/gizlilik/)
 
 ## Optional
-- [5 Ways to Reduce PPE and Cutting Tool Waste in Manufacturing Plants](https://www.tracemaster.com.tr/tracemaster-t/en/blog/how-to-reduce-ppe-and-cutting-tool-waste-in-factories/): Five ways to cut PPE and cutting tool waste in factories: stop shift hoarding, set per-person quotas, stop night-shift losses, use and return, avoid stock-outs.
-- [Fabrikalarda KKD ve Kesici Takım İsrafını Azaltmanın 5 Yolu](https://www.tracemaster.com.tr/tracemaster-t/blog/fabrikalarda-kkd-ve-kesici-takim-israfini-onleme/): Fabrikalarda KKD ve kesici takım israfını azaltmanın 5 yolu: vardiya istiflemesini önleyin, kişi bazlı kota koyun, gece kayıplarını ve stok tükenmesini önleyin.
-- [Which Industrial Vending Machine Should You Choose? Spiral vs. Carousel & Smart Lockers](https://www.tracemaster.com.tr/tracemaster-t/en/blog/which-industrial-vending-machine-should-you-choose-spiral-vs-carousel/): Spiral, carousel or smart locker? Why spiral machines struggle with gloves and soft PPE, the hidden labor of pre-wrapping, and which machine suits which item.
-- [Hangi Endüstriyel Otomat Makinesini Seçmelisiniz? Spiralli, Karusel ve Akıllı Dolap Karşılaştırması](https://www.tracemaster.com.tr/tracemaster-t/blog/hangi-endustriyel-otomat-makinesini-secmelisiniz-spiralli-vs-karusel/): Spiralli, karusel ve akıllı dolap karşılaştırması: spiralli otomatların eldiven paketleme yükü ve sıkışma riski, hangi malzemeye hangi makinenin uygun olduğu.
-- [ChatGPT's Choice in PPE Distribution](https://www.tracemaster.com.tr/tracemaster-t/en/blog/chatgpts-choice-in-ppe-distribution/): Which system is best for issuing and collecting PPE? We asked AI: smart vending with a return module, recommended configurations, brands and what to look for.
-- [How Industrial Vending Machines Bring Order to Production Environments](https://www.tracemaster.com.tr/tracemaster-t/en/blog/how-industrial-vending-machines-organize-production/): How industrial vending machines bring order to production: standard material access, fleet management, 5S workplace organization, 24/7 availability and data.
-- [Key Features and Benefits of Industrial Vending Machines](https://www.tracemaster.com.tr/tracemaster-t/en/blog/key-features-and-benefits-of-industrial-vending-machines/): Key features and benefits of industrial vending machines: automation, durability, flexibility, speed and access control, for efficiency, savings and control.
-- [Tips for Choosing the Right Industrial Vending Machine](https://www.tracemaster.com.tr/tracemaster-t/en/blog/tips-for-choosing-industrial-vending-machines/): Seven criteria for choosing an industrial vending machine: needs, capacity and speed, flexibility, maintenance and support, total cost, references, technology.
-- [What Are Industrial Vending Machines? A Definition](https://www.tracemaster.com.tr/tracemaster-t/en/blog/what-are-industrial-vending-machines/): What are industrial vending machines? Their core functions, tips for getting the most from them, safety standards, recent technology and smart factory trends.
-- [What is Industry 4.0? Digital Transformation in Manufacturing](https://www.tracemaster.com.tr/tracemaster-t/en/blog/what-is-industry-4-0/): What is Industry 4.0? The core elements of digital transformation in industry through smart factories, IoT, AI and automation: uses, advantages and challenges.
-- [Doğru Endüstriyel Otomat Makinesini Seçmek İçin İpuçları](https://www.tracemaster.com.tr/tracemaster-t/blog/dogru-endustriyel-otomat-makinesini-secmek-icin-ipuclari/): Endüstriyel otomat seçerken bakılacak 7 kriter: ihtiyaç analizi, kapasite ve hız, esneklik, bakım ve destek, toplam maliyet ve ROI, referanslar, teknoloji.
-- [Endüstri 4.0 Nedir? Sanayide Dijital Dönüşüm](https://www.tracemaster.com.tr/tracemaster-t/blog/endustri-4-0-nedir/): Endüstri 4.0 nedir? Akıllı fabrikalar, IoT, yapay zeka ve otomasyonla sanayide dijital dönüşümün temel unsurları, uygulama alanları, avantajları ve zorlukları.
-- [Endüstriyel Otomat Makineleri Tanımı](https://www.tracemaster.com.tr/tracemaster-t/blog/endustriyel-otomat-makineleri-tanimi/): Endüstriyel otomat makineleri nedir? Temel işlevleri, verimlilik ipuçları, güvenlik standartları, son teknolojik gelişmeler ve akıllı fabrika trendleri.
-- [Endüstriyel Otomat Makinelerinin Temel Özellikleri ve Faydaları](https://www.tracemaster.com.tr/tracemaster-t/blog/endustriyel-otomat-makinelerinin-temel-ozellikleri-ve-faydalari/): Endüstriyel otomatların temel özellikleri ve faydaları: otomasyon, dayanıklılık, esneklik, hız ve güvenlik; daha yüksek verimlilik, tasarruf ve tam kontrol.
-- [Endüstriyel Otomat Makinelerinin Üretim Ortamında Sağladığı Düzen](https://www.tracemaster.com.tr/tracemaster-t/blog/endustriyel-otomat-makinelerinin-uretim-ortaminda-sagladigi-duzen/): Endüstriyel otomatların üretim ortamına getirdiği düzen: süreç standardizasyonu, entegre yönetim, düzenli üretim alanı, 7/24 erişim ve anlık veriyle iyileşme.
-- [KKD Dağıtımında ChatGPT'nin Tercihi](https://www.tracemaster.com.tr/tracemaster-t/blog/kkd-dagitiminda-chatgpt-tercihi/): KKD dağıtımı ve geri toplaması için hangi sistem? Yapay zekaya sorduk: akıllı otomat ve iade modülü, önerilen sistem tipleri, markalar ve seçim kriterleri.
+- [5 Ways to Reduce PPE and Cutting Tool Waste in Manufacturing Plants](https://www.tracemaster.com.tr/en/blog/how-to-reduce-ppe-and-cutting-tool-waste-in-factories/): Five ways to cut PPE and cutting tool waste in factories: stop shift hoarding, set per-person quotas, stop night-shift losses, use and return, avoid stock-outs.
+- [Fabrikalarda KKD ve Kesici Takım İsrafını Azaltmanın 5 Yolu](https://www.tracemaster.com.tr/blog/fabrikalarda-kkd-ve-kesici-takim-israfini-onleme/): Fabrikalarda KKD ve kesici takım israfını azaltmanın 5 yolu: vardiya istiflemesini önleyin, kişi bazlı kota koyun, gece kayıplarını ve stok tükenmesini önleyin.
+- [Which Industrial Vending Machine Should You Choose? Spiral vs. Carousel & Smart Lockers](https://www.tracemaster.com.tr/en/blog/which-industrial-vending-machine-should-you-choose-spiral-vs-carousel/): Spiral, carousel or smart locker? Why spiral machines struggle with gloves and soft PPE, the hidden labor of pre-wrapping, and which machine suits which item.
+- [Hangi Endüstriyel Otomat Makinesini Seçmelisiniz? Spiralli, Karusel ve Akıllı Dolap Karşılaştırması](https://www.tracemaster.com.tr/blog/hangi-endustriyel-otomat-makinesini-secmelisiniz-spiralli-vs-karusel/): Spiralli, karusel ve akıllı dolap karşılaştırması: spiralli otomatların eldiven paketleme yükü ve sıkışma riski, hangi malzemeye hangi makinenin uygun olduğu.
+- [ChatGPT's Choice in PPE Distribution](https://www.tracemaster.com.tr/en/blog/chatgpts-choice-in-ppe-distribution/): Which system is best for issuing and collecting PPE? We asked AI: smart vending with a return module, recommended configurations, brands and what to look for.
+- [How Industrial Vending Machines Bring Order to Production Environments](https://www.tracemaster.com.tr/en/blog/how-industrial-vending-machines-organize-production/): How industrial vending machines bring order to production: standard material access, fleet management, 5S workplace organization, 24/7 availability and data.
+- [Key Features and Benefits of Industrial Vending Machines](https://www.tracemaster.com.tr/en/blog/key-features-and-benefits-of-industrial-vending-machines/): Key features and benefits of industrial vending machines: automation, durability, flexibility, speed and access control, for efficiency, savings and control.
+- [Tips for Choosing the Right Industrial Vending Machine](https://www.tracemaster.com.tr/en/blog/tips-for-choosing-industrial-vending-machines/): Seven criteria for choosing an industrial vending machine: needs, capacity and speed, flexibility, maintenance and support, total cost, references, technology.
+- [What Are Industrial Vending Machines? A Definition](https://www.tracemaster.com.tr/en/blog/what-are-industrial-vending-machines/): What are industrial vending machines? Their core functions, tips for getting the most from them, safety standards, recent technology and smart factory trends.
+- [What is Industry 4.0? Digital Transformation in Manufacturing](https://www.tracemaster.com.tr/en/blog/what-is-industry-4-0/): What is Industry 4.0? The core elements of digital transformation in industry through smart factories, IoT, AI and automation: uses, advantages and challenges.
+- [Doğru Endüstriyel Otomat Makinesini Seçmek İçin İpuçları](https://www.tracemaster.com.tr/blog/dogru-endustriyel-otomat-makinesini-secmek-icin-ipuclari/): Endüstriyel otomat seçerken bakılacak 7 kriter: ihtiyaç analizi, kapasite ve hız, esneklik, bakım ve destek, toplam maliyet ve ROI, referanslar, teknoloji.
+- [Endüstri 4.0 Nedir? Sanayide Dijital Dönüşüm](https://www.tracemaster.com.tr/blog/endustri-4-0-nedir/): Endüstri 4.0 nedir? Akıllı fabrikalar, IoT, yapay zeka ve otomasyonla sanayide dijital dönüşümün temel unsurları, uygulama alanları, avantajları ve zorlukları.
+- [Endüstriyel Otomat Makineleri Tanımı](https://www.tracemaster.com.tr/blog/endustriyel-otomat-makineleri-tanimi/): Endüstriyel otomat makineleri nedir? Temel işlevleri, verimlilik ipuçları, güvenlik standartları, son teknolojik gelişmeler ve akıllı fabrika trendleri.
+- [Endüstriyel Otomat Makinelerinin Temel Özellikleri ve Faydaları](https://www.tracemaster.com.tr/blog/endustriyel-otomat-makinelerinin-temel-ozellikleri-ve-faydalari/): Endüstriyel otomatların temel özellikleri ve faydaları: otomasyon, dayanıklılık, esneklik, hız ve güvenlik; daha yüksek verimlilik, tasarruf ve tam kontrol.
+- [Endüstriyel Otomat Makinelerinin Üretim Ortamında Sağladığı Düzen](https://www.tracemaster.com.tr/blog/endustriyel-otomat-makinelerinin-uretim-ortaminda-sagladigi-duzen/): Endüstriyel otomatların üretim ortamına getirdiği düzen: süreç standardizasyonu, entegre yönetim, düzenli üretim alanı, 7/24 erişim ve anlık veriyle iyileşme.
+- [KKD Dağıtımında ChatGPT'nin Tercihi](https://www.tracemaster.com.tr/blog/kkd-dagitiminda-chatgpt-tercihi/): KKD dağıtımı ve geri toplaması için hangi sistem? Yapay zekaya sorduk: akıllı otomat ve iade modülü, önerilen sistem tipleri, markalar ve seçim kriterleri.
