@@ -1,0 +1,219 @@
+# =====================================================================
+#  tracemaster.com.tr  (Astro statik site, Apache)
+#  OTOMATİK ÜRETİLİR: src/integrations/htaccess.mjs her build'de yazar.
+#  Elle değiştirmeyin; yönlendirmeler astro.config.mjs REDIRECTS'te.
+#  Tüm bloklar <IfModule> içinde: ilgili modül sunucuda yoksa
+#  kural sessizce atlanır, site 500 hatası vermez.
+# =====================================================================
+
+# --- Temel ayarlar ----------------------------------------------------
+DirectoryIndex index.html
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .html .txt .xml .webmanifest
+
+# Klasör içeriğinin listelenmesini kapat (_astro, images vb.)
+# Not: Site bu satır yüzünden "500 Internal Server Error" verirse
+# hosting bu ayara izin vermiyor demektir; satırı silin.
+Options -Indexes
+
+# --- Hata sayfası -----------------------------------------------------
+# Olmayan adres: sitenin kendi 404 sayfası, gerçek 404 koduyla. PHP yok.
+ErrorDocument 404 /404.html
+<If "%{REQUEST_URI} =~ m#^/en/#">
+    ErrorDocument 404 /en/404/index.html
+</If>
+
+# --- Yönlendirmeler ---------------------------------------------------
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # --- cPanel 404.shtml -------------------------------------------
+    # Hosting kendi ErrorDocument'ını dayatırsa /404.shtml gelir (404.html'in
+    # kopyası). Aşağıdaki dil klasörlerinde o dilin 404 sayfası gösterilir.
+    RewriteCond %{ENV:REDIRECT_URL} ^/en/
+    RewriteRule ^404\.shtml$ /en/404/index.html [L]
+
+    # --- Eski adresler -> yeni adresler (301) -------------------------
+    # Türkçe harfler UTF-8 bayt kodu olarak yazılır (\xC5\x9F = ş,
+    # \xC4\xB1 = ı ...). Astro'nun bu adresler için ürettiği sayfalar
+    # 301 değil 200 + meta refresh döner (Türkçe adlı klasörleri de
+    # sunucudaki zip açıcı bozuyor); gerçek 301'i bu kurallar verir.
+
+    # /ana-sayfa
+    RewriteRule ^ana-sayfa/?$ https://tracemaster.com.tr/ [R=301,NE,L]
+
+    # /hakkımızda
+    RewriteRule ^hakk\xC4\xB1m\xC4\xB1zda/?$ https://tracemaster.com.tr/hakkimizda/ [R=301,NE,L]
+
+    # /referanslar
+    RewriteRule ^referanslar/?$ https://tracemaster.com.tr/hakkimizda/#referanslar [R=301,NE,L]
+
+    # /iletişim
+    RewriteRule ^ileti\xC5\x9Fim/?$ https://tracemaster.com.tr/iletisim/ [R=301,NE,L]
+
+    # /isg-otomatı
+    RewriteRule ^isg-otomat\xC4\xB1/?$ https://tracemaster.com.tr/urunler/tracemaster/ [R=301,NE,L]
+
+    # /otomat
+    RewriteRule ^otomat/?$ https://tracemaster.com.tr/urunler/tracemaster/ [R=301,NE,L]
+
+    # /otomat/tracemaster-makineleri
+    RewriteRule ^otomat/tracemaster-makineleri/?$ https://tracemaster.com.tr/urunler/tracemaster/ [R=301,NE,L]
+
+    # /otomat/tracemaster-makineleri/traceturn
+    RewriteRule ^otomat/tracemaster-makineleri/traceturn/?$ https://tracemaster.com.tr/urunler/tracemaster/#traceturn [R=301,NE,L]
+
+    # /otomat/tracemaster-makineleri/tracebox
+    RewriteRule ^otomat/tracemaster-makineleri/tracebox/?$ https://tracemaster.com.tr/urunler/tracemaster/#tracebox [R=301,NE,L]
+
+    # /otomat/tracemaster-makineleri/tracelocker-30
+    RewriteRule ^otomat/tracemaster-makineleri/tracelocker-30/?$ https://tracemaster.com.tr/urunler/tracemaster/#tracelocker-30 [R=301,NE,L]
+
+    # /otomat/tracemaster-makineleri/tracelocker-32
+    RewriteRule ^otomat/tracemaster-makineleri/tracelocker-32/?$ https://tracemaster.com.tr/urunler/tracemaster/#tracelocker-32 [R=301,NE,L]
+
+    # /otomat/cribmaster-makineleri
+    RewriteRule ^otomat/cribmaster-makineleri/?$ https://tracemaster.com.tr/urunler/cribmaster/ [R=301,NE,L]
+
+    # /otomat/cribmaster-makineleri/prostock
+    RewriteRule ^otomat/cribmaster-makineleri/prostock/?$ https://tracemaster.com.tr/urunler/cribmaster/#prostock [R=301,NE,L]
+
+    # /otomat/cribmaster-makineleri/weighstation
+    RewriteRule ^otomat/cribmaster-makineleri/weighstation/?$ https://tracemaster.com.tr/urunler/cribmaster/#weighstation [R=301,NE,L]
+
+    # /otomat/cribmaster-makineleri/toolbox
+    RewriteRule ^otomat/cribmaster-makineleri/toolbox/?$ https://tracemaster.com.tr/urunler/cribmaster/#toolbox [R=301,NE,L]
+
+    # /sektörler/fabrikalar
+    RewriteRule ^sekt\xC3\xB6rler/fabrikalar/?$ https://tracemaster.com.tr/sektorler/fabrikalar/ [R=301,NE,L]
+
+    # /sektörler/havacılık
+    RewriteRule ^sekt\xC3\xB6rler/havac\xC4\xB1l\xC4\xB1k/?$ https://tracemaster.com.tr/sektorler/havacilik/ [R=301,NE,L]
+
+    # /sektörler/sağlık
+    RewriteRule ^sekt\xC3\xB6rler/sa\xC4\x9Fl\xC4\xB1k/?$ https://tracemaster.com.tr/sektorler/saglik/ [R=301,NE,L]
+
+    # /sektörler/konutlar-oteller
+    RewriteRule ^sekt\xC3\xB6rler/konutlar-oteller/?$ https://tracemaster.com.tr/sektorler/konutlar-oteller/ [R=301,NE,L]
+
+    # /doğru-endüstriyel-otomat-makinesini-seçmek-için-doğru-ipuçları
+    RewriteRule ^do\xC4\x9Fru-end\xC3\xBCstriyel-otomat-makinesini-se\xC3\xA7mek-i\xC3\xA7in-do\xC4\x9Fru-ipu\xC3\xA7lar\xC4\xB1/?$ https://tracemaster.com.tr/blog/dogru-endustriyel-otomat-makinesini-secmek-icin-ipuclari/ [R=301,NE,L]
+
+    # /endüstri-4-0-nedir
+    RewriteRule ^end\xC3\xBCstri-4-0-nedir/?$ https://tracemaster.com.tr/blog/endustri-4-0-nedir/ [R=301,NE,L]
+
+    # /endüstriyel-otomat-makinelerinin-temel-özellikleri-ve-faydaları
+    RewriteRule ^end\xC3\xBCstriyel-otomat-makinelerinin-temel-\xC3\xB6zellikleri-ve-faydalar\xC4\xB1/?$ https://tracemaster.com.tr/blog/endustriyel-otomat-makinelerinin-temel-ozellikleri-ve-faydalari/ [R=301,NE,L]
+
+    # /endüstriyel-otomat-makinelerinin-üretim-ortamında-sağladığı-düzen
+    RewriteRule ^end\xC3\xBCstriyel-otomat-makinelerinin-\xC3\xBCretim-ortam\xC4\xB1nda-sa\xC4\x9Flad\xC4\xB1\xC4\x9F\xC4\xB1-d\xC3\xBCzen/?$ https://tracemaster.com.tr/blog/endustriyel-otomat-makinelerinin-uretim-ortaminda-sagladigi-duzen/ [R=301,NE,L]
+
+    # /endüstriyel-otomat-makineleri-tanımı
+    RewriteRule ^end\xC3\xBCstriyel-otomat-makineleri-tan\xC4\xB1m\xC4\xB1/?$ https://tracemaster.com.tr/blog/endustriyel-otomat-makineleri-tanimi/ [R=301,NE,L]
+
+    # /kkd-dağıtımında-chat-gptnin-tercihi
+    RewriteRule ^kkd-da\xC4\x9F\xC4\xB1t\xC4\xB1m\xC4\xB1nda-chat-gptnin-tercihi/?$ https://tracemaster.com.tr/blog/kkd-dagitiminda-chatgpt-tercihi/ [R=301,NE,L]
+
+    # http -> https
+    # Cloudflare arkasında döngüye girmemesi için ziyaretçinin gerçek
+    # protokolünü X-Forwarded-Proto başlığından okur.
+    RewriteCond %{HTTP:X-Forwarded-Proto} =http
+    RewriteRule ^ https://tracemaster.com.tr%{REQUEST_URI} [R=301,L]
+
+    # www.tracemaster.com.tr -> tracemaster.com.tr
+    RewriteCond %{HTTP_HOST} ^www\.tracemaster\.com\.tr$ [NC]
+    RewriteRule ^ https://tracemaster.com.tr%{REQUEST_URI} [R=301,L]
+
+    # Sonunda / olmayan klasör adresi -> tek adımda https + / (Apache'nin
+    # kendi yönlendirmesi Cloudflare arkasında önce http'ye gidiyor)
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^(.*[^/])$ https://tracemaster.com.tr/$1/ [R=301,L]
+
+    # --- 404 yedeği (normalde KAPALI) ---------------------------------
+    # Normalde yukarıdaki ErrorDocument yeterli (gerçek 404 kodu). Hosting
+    # onu ezerse (canlıda olmayan bir adreste hosting'in kendi sayfası
+    # çıkarsa) bir sonraki satırın başındaki # işaretini kaldırın: olmayan
+    # adresler 404 sayfasına içeriden aktarılır. Durum kodu o zaman 200
+    # olur; 404 sayfaları noindex taşıdığı için Google onları dizine almaz.
+    # (Kalıcı yapmak için: astro.config.mjs'te htaccess({ fallback404: true }).)
+    # RewriteRule ^ - [E=FALLBACK404:1]
+
+    RewriteCond %{ENV:FALLBACK404} =1
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d [OR]
+    RewriteCond %{REQUEST_FILENAME}/index.html !-f
+    RewriteRule ^ - [E=NOTFOUND:1]
+
+    RewriteCond %{ENV:NOTFOUND} =1
+    RewriteCond %{REQUEST_URI} ^/en/
+    RewriteRule ^ /en/404/index.html [L]
+
+    RewriteCond %{ENV:NOTFOUND} =1
+    RewriteRule ^ /404.html [L]
+
+    # index.html'i olmayan klasörler (_astro/, images/ ...): çıplak
+    # "403 Forbidden" yerine 404 (yukarıdaki ErrorDocument sayfası)
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteCond %{REQUEST_FILENAME}/index.html !-f
+    RewriteRule ^ - [R=404,L]
+</IfModule>
+
+# --- MIME türleri -----------------------------------------------------
+<IfModule mod_mime.c>
+    AddType application/manifest+json  .webmanifest
+    AddType font/woff2                 .woff2
+    AddType image/webp                 .webp
+    AddType image/svg+xml              .svg
+    AddType video/mp4                  .mp4
+    AddType text/plain                 .txt
+</IfModule>
+
+# --- Sıkıştırma -------------------------------------------------------
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css
+    AddOutputFilterByType DEFLATE application/javascript text/javascript
+    AddOutputFilterByType DEFLATE application/xml application/json
+    AddOutputFilterByType DEFLATE application/manifest+json image/svg+xml
+</IfModule>
+
+# --- Tarayıcı önbelleği -----------------------------------------------
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresDefault                          "access plus 1 week"
+
+    # HTML ve site haritaları: her zaman güncel sürüm kontrol edilsin
+    ExpiresByType text/html                 "access plus 0 seconds"
+    ExpiresByType application/xml           "access plus 0 seconds"
+    ExpiresByType text/xml                  "access plus 0 seconds"
+    ExpiresByType text/plain                "access plus 1 hour"
+    ExpiresByType application/manifest+json "access plus 1 week"
+
+    # JS/CSS sadece _astro/ içinde ve dosya adları hash'li -> uzun süre
+    ExpiresByType application/javascript    "access plus 1 year"
+    ExpiresByType text/javascript           "access plus 1 year"
+    ExpiresByType text/css                  "access plus 1 year"
+
+    # Görsel, video, font
+    ExpiresByType image/webp                "access plus 1 month"
+    ExpiresByType image/jpeg                "access plus 1 month"
+    ExpiresByType image/png                 "access plus 1 month"
+    ExpiresByType image/svg+xml             "access plus 1 month"
+    ExpiresByType image/x-icon              "access plus 1 month"
+    ExpiresByType image/vnd.microsoft.icon  "access plus 1 month"
+    ExpiresByType video/mp4                 "access plus 1 month"
+    ExpiresByType font/woff2                "access plus 1 year"
+</IfModule>
+
+# --- Güvenlik başlıkları ----------------------------------------------
+<IfModule mod_headers.c>
+    # deploy/nginx-security-headers.conf ile aynı başlıklar.
+    Header always set Content-Security-Policy "frame-ancestors 'none'; base-uri 'self'; object-src 'none'; form-action 'self'; require-trusted-types-for 'script'"
+    Header always set X-Frame-Options "DENY"
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+    Header always set Cross-Origin-Opener-Policy "same-origin"
+    # HSTS 1. aşama (5 dk). HTTPS bir hafta sorunsuz çalışınca 31536000 yapın.
+    Header always set Strict-Transport-Security "max-age=300"
+    Header unset X-Powered-By
+</IfModule>
